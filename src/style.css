@@ -1,0 +1,17 @@
+body{
+margin:0;
+font-family:Arial;
+background:#f8fafc;
+}
+.card{
+background:white;
+padding:20px;
+border-radius:20px;
+box-shadow:0 2px 10px rgba(0,0,0,.05);
+}
+input{
+width:100%;
+padding:10px;
+border-radius:10px;
+border:1px solid #ddd;
+}
